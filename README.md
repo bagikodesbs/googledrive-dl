@@ -10,7 +10,7 @@ npm i googledrive-dl
 I don't know why I made it 😂
 
 ```
-const driveDl = require('googledrive-dl');
+const {getDownloadUrl} = require('googledrive-dl');
 console.log(getDownloadUrl('https://drive.google.com/file/d/fileId'))
 ```
 
