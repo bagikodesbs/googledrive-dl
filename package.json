@@ -1,0 +1,26 @@
+{
+  "name": "googledrive-dl",
+  "version": "1.0.0",
+  "description": "Get url to download goolge drive files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Shah",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantshah977/googledrive-dl.git"
+  },
+  "keywords": [
+    "Google",
+    "Drive",
+    "Google",
+    "Drive",
+    "Downloader"
+  ],
+  "bugs": {
+    "url": "https://github.com/nishantshah977/googledrive-dl/issues"
+  },
+  "homepage": "https://github.com/nishantshah977/googledrive-dl#readme"
+}
